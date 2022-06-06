@@ -28,3 +28,7 @@ a \* b
 
 Ural Academy of Veterinary Medicine
 Faculty: Technology of processing, standardization and specification of livestock products
+
+## Language:
+
+English level - A1
